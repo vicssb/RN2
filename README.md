@@ -1,7 +1,7 @@
 # DIO
 # Introdução ao React Native
 
-![image]()
+![image](https://github.com/vicssb/RN2/blob/54c3a80d3ec143a2adf4a40c4cc6fd2ddd9f1e16/tela.png)
 
 # Conteúdo
 - Conhecendo o React Native
